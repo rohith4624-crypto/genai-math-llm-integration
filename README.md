@@ -99,6 +99,7 @@ print("Function called: calculate_cylinder_volume")
 print("Radius:", radius)
 print("Height:", height)
 print("Calculated volume:", result)
+```
 
 ### OUTPUT:
 <img width="556" height="137" alt="image" src="https://github.com/user-attachments/assets/a13c246f-2b26-466f-9d3b-06efe9ed7f12" />
